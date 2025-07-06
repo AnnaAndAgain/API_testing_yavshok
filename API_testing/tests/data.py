@@ -1,0 +1,16 @@
+
+
+BASE_URL = 'http://localhost:3000/'
+
+MIN_YOUNG_AGE = 0
+MAX_YOUNG_AGE = 21
+MIN_ADULT_AGE = 22
+MAX_ADULT_AGE = 68
+MIN_OLD_AGE = 69
+MAX_OLD_AGE = 99
+
+MIN_PASSWORD_LENGTH = 5
+MAX_PASSWORD_LENGTH = 20
+
+#зарегистрированный юзер на все тесты
+
